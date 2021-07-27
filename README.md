@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alou2Blad
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning progamation
-- 💞️ I’m looking to collaborate on python
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me #Git @Alou2Blad
 
 <!---
